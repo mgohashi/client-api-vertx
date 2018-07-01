@@ -113,3 +113,4 @@ nbactions.xml
 .nb-gradle/
 
 *.log
+.vertx
